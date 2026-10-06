@@ -1,0 +1,6 @@
+entity_id	business_name	business_address	country	city	state	phone	email
+A1	Acme Logistics Ltd	12 Market Street Bengaluru Karnataka	India	Bengaluru	Karnataka	+91 80 1234 5678	acme@logistics.com
+A2	Global Traders	20 MG Road Mumbai	India	Mumbai	Maharashtra	+91 22 2222 3333	info@globaltraders.com
+A3	Urban Retail Group	45 Residency Road Hyderabad	India	Hyderabad	Telangana	+91 40 3456 7890	hyd@urbanretail.com
+A4	Blue Harbor Services	7 Lake Avenue Chennai	India	Chennai	Tamil Nadu	+91 44 8888 9999	blue@harbor.co
+A5	Prime Foods Pvt Ltd	88 Main Road Pune	India	Pune	Maharashtra	+91 20 1111 2222	prime@foods.in

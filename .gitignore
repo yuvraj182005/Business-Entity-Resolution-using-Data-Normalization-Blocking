@@ -1,0 +1,13 @@
+dataset/
+output/
+*.csv
+*.tsv
+*.h5
+*.hdf5
+.env
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+
+!tests/synthetic_business_data.tsv
+!tests/sample_dataset/**
