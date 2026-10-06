@@ -180,3 +180,5 @@ The pipeline writes files such as:
 ## Amazon ML Challenge context
 
 This project was developed as part of the Amazon ML Challenge and focuses on practical engineering for entity resolution rather than claiming any competition result or placement.
+
+- K.YUVRAJ SUNDARAM.
